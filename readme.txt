@@ -2,7 +2,7 @@
 # Esse repositorio ira armazenar anotacoes e algum codigo
 # que esta sendo estudado :P 
 =======
-# Esse reposit√rio ira armazenar anotacoes e algum codigo
+# Esse repositorio ira armazenar anotacoes e algum codigo
 # que esta sendo estudado :P
 ----------------------------------------------------
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAATESTE
